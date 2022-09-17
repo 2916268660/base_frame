@@ -1,0 +1,6 @@
+[asset-management-system]2022/09/17 - 11:37:16.385	ERROR	/Users/wangsi/GolandProjects/base_frame/core/db.go:32	数据库连接失败	{"error": "Error 1049: Unknown database 'asset'"}
+[asset-management-system]2022/09/17 - 11:40:14.048	ERROR	/Users/wangsi/GolandProjects/base_frame/core/db.go:32	数据库连接失败	{"error": "Error 1049: Unknown database 'asset'"}
+[asset-management-system]2022/09/17 - 11:48:11.633	ERROR	/Users/wangsi/GolandProjects/base_frame/core/db.go:32	数据库连接失败	{"error": "Error 1049: Unknown database 'asset'"}
+[asset-management-system]2022/09/17 - 11:49:54.011	ERROR	/Users/wangsi/GolandProjects/base_frame/core/db.go:32	数据库连接失败	{"error": "Error 1049: Unknown database 'asset'"}
+[asset-management-system]2022/09/17 - 11:55:38.820	ERROR	/Users/wangsi/GolandProjects/base_frame/core/db.go:32	数据库连接失败	{"error": "Error 1049: Unknown database 'asset'"}
+[asset-management-system]2022/09/17 - 12:00:25.086	ERROR	/Users/wangsi/GolandProjects/base_frame/core/db.go:32	数据库连接失败	{"error": "Error 1049: Unknown database 'asset'"}
